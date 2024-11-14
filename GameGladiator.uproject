@@ -74,6 +74,11 @@
 		{
 			"Name": "Cargo",
 			"Enabled": true
+		},
+		{
+			"Name": "ConversationPlugin2D",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/869781a5293a46fa8b2c58f080bf7453"
 		}
 	]
 }
